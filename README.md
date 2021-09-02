@@ -1,4 +1,8 @@
 # YouTube_Downloader
-YouTube downloader pc app which is made using python.
+YouTube downloader pc application built using python.
+
+Libraries used:
+=> Tkinter
+=> Pytube
 
 
