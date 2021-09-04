@@ -11,6 +11,8 @@ Libraries used : <br/>
 `pip install tk`
 <br>
 `pip install pytube`
+<br>
+`python YouTube_Downloader.py`
 
 <br>
 <br>
