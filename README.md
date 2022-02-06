@@ -1,7 +1,7 @@
 # YouTube_Downloader
 
 [![GitHub forks](https://img.shields.io/github/forks/Shashank5665/YouTube_Downloader)](https://github.com/Shashank5665/YouTube_Downloader/network)
-![Lines of code](https://img.shields.io/tokei/lines/github/Shashank5665/YouTube_Downloader/Youtube_Downloader.py)
+![Lines of code](https://img.shields.io/tokei/lines/github/Shashank5665/YouTube_Downloader)
 [![GitHub stars](https://img.shields.io/github/stars/Shashank5665/YouTube_Downloader)](https://github.com/Shashank5665/YouTube_Downloader/stargazers)
 
 <p>YouTube downloader pc application built using python.</p>
